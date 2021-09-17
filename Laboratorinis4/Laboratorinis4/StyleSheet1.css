@@ -1,0 +1,17 @@
+﻿body {
+    background-color:antiquewhite;
+    font-family:sans-serif;
+}
+#Label1, #Label2, #Label3, #Label4, #Label5 {
+    font-weight: bold;
+    font-size: x-large;
+}
+.label{
+    font-weight: bold;
+}
+#Button1{
+    font-size: x-large;
+}
+td {
+    padding: 5px;
+}

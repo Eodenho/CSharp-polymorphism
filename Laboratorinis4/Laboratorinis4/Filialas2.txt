@@ -1,0 +1,8 @@
+Vilnius
+Neries g. 8
+vilniausfilialas@gmail.com
+Microbus;ERC 112;Volvo;B10M;1998-02;2021-08-08;Dyzelis;6.5;59
+Truck;LMB 995;Fiat;Fiorino;2018-07;2022-07-11;Dyzelis;5.35;350
+Truck;CCC 995;Fiat;Ducato;2018-07;2022-07-11;Dyzelis;5.35;350
+Car;CTE 388;Subaru;Impreza WRX;2002-05;2022-06-18;Benzinas;5;250000
+Car;IPJ 497;BMW;M4;2017-07;2021-09-12;Benzinas;8.75;150000
