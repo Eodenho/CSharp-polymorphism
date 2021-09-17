@@ -1,0 +1,8 @@
+Kaunas
+Donelaičio g. 56
+kaunofilialas@gmail.com
+Car;ACD 139;BMW;320D;2012-09;2018-12-30;Dyzelis;7.3;256892
+Car;IUY 584;Volvo;V70;2003-12;2019-5-25;Benzinas;4.7;150000.32
+Truck;HJC 324;Volkswagen;Crafter;2009-07;2021-06-12;Dyzelis;6;200
+Truck;AAA 324;Mercedes;Axor;2009-07;2020-06-01;Dyzelis;6;200
+Microbus;ZZZ 483;Scania;Higer;2021-04;2020-12-01;Dyzelis;5.6;4
